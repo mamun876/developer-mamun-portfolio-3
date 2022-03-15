@@ -76,6 +76,7 @@ box-shadow: 10px 10px 30px gray;
     background-image: url(image/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    margin-bottom: 20px;
 }
 #baby{
     border-left: 8px solid;
@@ -86,5 +87,9 @@ box-shadow: 10px 10px 30px gray;
 border-right: 8px solid;
 border-image-slice: 2;
 border-color: rgb(255, 136, 0);
+}
+footer p{
+    text-align: center;
+    margin-top: 10%;
 }
 
