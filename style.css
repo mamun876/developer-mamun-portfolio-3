@@ -39,10 +39,11 @@ h1{
     background-image: url(image/dream-bg.png);
     background-repeat: no-repeat;    
     background-position: right;
-    margin: 0;
+    margin: 0px;
+    background-size: 5%;
 }
-h1{
-    font-size: 50px;
+.dream-big{
+font-size: 75px;
 }
 .blue-color{
     color: hsl(202, 95%, 59%);
@@ -52,7 +53,7 @@ h1{
     margin-left: 5%;
 }
 .middle-width img{
-    width: 100%;
+    width: 80%;
     padding-left: 5%;
-    padding-top: 2%;
+    padding-top: 5%;
     padding-bottom: 10%;
